@@ -1,0 +1,38 @@
+/* Navigation */
+a {
+    text-decoration : underline;
+    color : silver !important;
+}
+
+a.nav-link{
+    text-decoration : underline;    
+}
+
+a.active {
+    text-decoration : none;
+    color : whitesmoke !important;
+}
+
+a:hover {    
+    color : whitesmoke !important;
+}
+/* ----------------------------------------------- */
+/* Toast */
+.bg-danger {
+    --bs-bg-opacity : 0.8 !important;
+}
+
+.mt-6 {
+    margin-top: 5rem;
+}
+
+:root {
+    --bs-danger-rgb : 241, 130, 141 !important;    
+}
+
+.toast-body{
+    display: flex;   /*-Обязательно что бы параметры снизу работали-*/   
+    align-items: stretch;   /*-Растянуть по вертикали-*/
+    justify-content: space-between;    /*-По края по горизонтали-*/
+}
+/* ----------------------------------------------- */

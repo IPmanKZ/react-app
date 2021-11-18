@@ -1,0 +1,11 @@
+{
+    "jwtSecret": "react redux test app",
+    "firebaseConfig" : {
+                        "apiKey": "AIzaSyAcsT5Gch8oyXiEP5eMbgFm7iGIi0xkWPs",
+                        "authDomain": "my-app-fc54a.firebaseapp.com",
+                        "projectId": "my-app-fc54a",
+                        "storageBucket": "my-app-fc54a.appspot.com",
+                        "messagingSenderId": "785223533535",
+                        "appId": "1:785223533535:web:89dbeb735e4f7413bcfa6a"
+                       }
+}
